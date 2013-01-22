@@ -1,0 +1,15 @@
+{
+  "name": "backbone-sync",
+  "repo": "karlbohlmark/backbone-sync",
+  "description": "Backbone.sync",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
